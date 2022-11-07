@@ -3,6 +3,17 @@
 	<name>BoardProject</name>
 	<comment></comment>
 	<projects>
+		<project>c3p0-0.9.5.2</project>
+		<project>taglibs-standard-impl-1.2.5</project>
+		<project>slf4j-api-1.7.7</project>
+		<project>quartz-2.3.0-SNAPSHOT</project>
+		<project>taglibs-standard-spec-1.2.5</project>
+		<project>quartz-jobs-2.3.0-SNAPSHOT</project>
+		<project>mybatis-3.5.2</project>
+		<project>slf4j-log4j12-1.7.7</project>
+		<project>ojdbc6</project>
+		<project>lombok-1.18.22</project>
+		<project>log4j-1.2.16</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
